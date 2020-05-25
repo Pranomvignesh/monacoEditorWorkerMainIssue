@@ -8,3 +8,5 @@ To repoduce the issue run these commands
 Go to any browser and hit the url `http://localhost:4444`
 
 In the networks tab, there are two workerMain.js files getting loaded
+
+![](images/browserScreenshot.png)
